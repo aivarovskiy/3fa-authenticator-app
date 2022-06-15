@@ -1,0 +1,9 @@
+# Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Data
+anchor
+dict

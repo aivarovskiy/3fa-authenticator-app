@@ -1,0 +1,9 @@
+cryptography==37.0.2
+keras==2.9.0
+numpy==1.22.4
+Pillow==9.1.1
+pyotp==2.6.0
+pywin32==302
+scikit_image==0.19.2
+tensorflow==2.9.0
+tqdm==4.64.0
